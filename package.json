@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.13.2"
+    "@netlify/functions": "^4.2.2",
+    "astro": "^5.13.2",
+    "csv-parse": "^6.1.0"
   }
 }
